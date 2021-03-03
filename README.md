@@ -2,10 +2,9 @@
 
 ## I'm a Web Developer!!
 
-- 📚 I’m currently learning React and Nodejs.
-- 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
-- ⚡ Fun fact: I love solving problem.
+- 📚 I’m currently learning React.
+- 🥅 2021 Goals: Master React.
+- ⚡ Fun fact: I have small hands.
 
 ### Languages and Tools:
 
